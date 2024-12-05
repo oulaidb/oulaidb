@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Dr. Bader Oulaid (@oulaidb)
 
 🌍 **Digital Twins Scientist** at Rothamsted Research, UK.  
-🔬 Specialized in **remote sensing**, **hybrid modeling**, and **data assimilation** to enhance crop productivity, precision agriculture, and greenhouse gas monitoring.  
 
 ---
 
