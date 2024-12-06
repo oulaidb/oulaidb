@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dr. Bader Oulaid (@oulaidb)
+# 👋 Hi, I’m Dr Bader Oulaid (@oulaidb)
 
 🌍 **Digital Twins Scientist** at Rothamsted Research, UK.  
 
