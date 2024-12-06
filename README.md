@@ -6,7 +6,6 @@
 
 ## 🎓 **Education**
 - **PhD in Environment and Agrifood**, Cranfield University, UK.  
-  Focus: Coupling remote sensing with crop models for yield prediction and greenhouse gas monitoring.  
 - **M.Eng in Data Science and Business Intelligence**, INSEA, Morocco.  
 - **CPGE in Mathematics**, Morocco.  
 
