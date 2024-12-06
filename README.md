@@ -39,7 +39,8 @@ For the full list, refer to my [ResearchGate](https://www.researchgate.net/) or 
 ---
 
 ## 🏆 **Awards**
-- Big Data Developer (IBM Mastery Award, 2019).  
+- Big Data Developer (IBM Mastery Award, 2019) : https://www.credly.com/badges/cb14930a-7dea-419a-b1ad-ef59406a4b5b/linked_in_profile  
+- Big Data Developer (IBM Explorer Award, 2019).  
 
 ---
 
