@@ -17,22 +17,29 @@
 - **Tutoring**: Remote Sensing (UniSQ, Australia) & Workshops (UM6P, Morocco).  
 
 ---
+📚 Publications and Conference Proceedings
+1. Towards a Framework for Farm Scale Digital Twin.  
+   *(Proceedings of the ACM Conference, 2024). DOI: 10.1145/3652620.3688264*
 
-## 📚 **Publications and Conference Proceedings**
-1. **Stepwise model parametrization using satellite imagery and hemispherical photography: Tuning AquaCrop sensitive parameters for improved winter wheat yield predictions in semi-Arid regions.**  
-   *(Field Crops Research, 2024)*. [DOI: 10.1016/j.fcr.2024.109327](https://doi.org/10.1016/j.fcr.2024.109327)  
+2. Geographically Weighted Quantile Machine Learning for Probabilistic Soil Moisture Prediction from Spatially Resolved Remote Sensing.  
+   *(Remote Sensing, 2025). DOI: 10.3390/rs17162907*
 
-2. **Towards a better understanding of rainfed wheat yield predictions in arid and semi-arid regions: How early, precise, and transferable can these models be?**  
-   *(SSRN, 2024)*. [DOI: 10.2139/ssrn.4855809](https://doi.org/10.2139/ssrn.4855809)  
+3. Stepwise model parametrization using satellite imagery and hemispherical photography: Tuning AquaCrop sensitive parameters for improved winter wheat yield predictions in semi-Arid regions.  
+   *(Field Crops Research, 2024). DOI: 10.1016/j.fcr.2024.109327*
 
-3. **Enhancing wheat yield prediction through data assimilation of satellite-derived canopy cover into AquaCrop: A comparative study of assimilation techniques and timings.**  
-   *(Under Review, Remote Sensing of Environment)*  
+4. Towards a better understanding of rainfed wheat yield predictions in arid and semi-arid regions: How early, precise, and transferable can these models be?  
+   *(SSRN, 2024). DOI: 10.2139/ssrn.4855809*
 
-4. **Integrated Digital Soil Assessment across Southeast Asia and Africa.**  
-   *(EGU 2024 Proceedings, March 2024)*. [DOI: 10.5194/egusphere-egu24-12959](https://doi.org/10.5194/egusphere-egu24-12959)  
+5. Enhancing wheat yield prediction through data assimilation of satellite-derived canopy cover into AquaCrop: A comparative study of assimilation techniques and timings.  
+   *(Under Review, Remote Sensing of Environment)*
 
-5. **Communicating the Uncertainty in Predictions from a GIS-Modelling Framework.**  
-   *(EGU Preprint, May 2023)*. [DOI: 10.5194/egusphere-egu23-15802](https://doi.org/10.5194/egusphere-egu23-15802)  
+6. Integrated Digital Soil Assessment across Southeast Asia and Africa.  
+   *(EGU 2024 Proceedings, March 2024). DOI: 10.5194/egusphere-egu24-12959*
+
+7. Communicating the Uncertainty in Predictions from a GIS-Modelling Framework.  
+   *(EGU Preprint, May 2023). DOI: 10.5194/egusphere-egu23-15802*
+
+
 
 For the full list, refer to my [ResearchGate](https://www.researchgate.net/) or [Google Scholar](https://scholar.google.com/).
 
