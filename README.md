@@ -15,7 +15,7 @@
 - **Tutoring**: Remote Sensing (UniSQ, Australia) & Workshops (UM6P, Morocco).  
 
 ---
-📚 Publications and Conference Proceedings
+Publications and Conference Proceedings
 1. Towards a Framework for Farm Scale Digital Twin.  
    *(Proceedings of the ACM Conference, 2024). DOI: 10.1145/3652620.3688264*
 
