@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dr Bader Oulaid (@oulaidb)
 
-🌍 **Digital Twins Scientist** at Rothamsted Research, UK.  
+🌍 **Ressearch Fellow** at Cranfield University, UK.  
 
 ---
 
@@ -12,7 +12,8 @@
 ---
 
 ## 💼 **Professional Experience**
-- **Digital Twins Scientist**, Rothamsted Research, UK (2024–Present).  
+- **Research Fellow in AI and Remote Sensing Twins Scientist**, Cranfield University, UK (2026–Present).  
+- **Digital Twins Scientist**, Rothamsted Research, UK (2024–2026).  
 - **Spatial Data Scientist (Internship)**, UM6P, Morocco (2019).  
 - **Tutoring**: Remote Sensing (UniSQ, Australia) & Workshops (UM6P, Morocco).  
 
