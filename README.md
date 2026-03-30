@@ -1,17 +1,14 @@
-# 👋 Hi, I’m Dr Bader Oulaid (@oulaidb)
-
-🌍 **Ressearch Fellow** at Cranfield University, UK.  
-
+#  Hi, I’m Dr Bader Oulaid (@oulaidb)
 ---
 
-## 🎓 **Education**
+## **Education**
 - **PhD in Environment and Agrifood**, Cranfield University, UK.  
 - **M.Eng in Data Science and Business Intelligence**, INSEA, Morocco.  
 - **CPGE in Mathematics**, Morocco.  
 
 ---
 
-## 💼 **Professional Experience**
+## **Professional Experience**
 - **Research Fellow in AI and Remote Sensing Twins Scientist**, Cranfield University, UK (2026–Present).  
 - **Digital Twins Scientist**, Rothamsted Research, UK (2024–2026).  
 - **Spatial Data Scientist (Internship)**, UM6P, Morocco (2019).  
@@ -46,26 +43,26 @@ For the full list, refer to my [ResearchGate](https://www.researchgate.net/) or 
 
 ---
 
-## 🏆 **Awards**
+## **Awards**
 - Big Data Developer (IBM Mastery Award, 2019) : https://www.credly.com/badges/cb14930a-7dea-419a-b1ad-ef59406a4b5b
 - Big Data Developer (IBM Explorer Award, 2019): https://www.credly.com/badges/984a147b-aef6-4a61-b082-60a7e5bdc4fe  
 
 ---
 
-## 🌟 **Research Focus**
+## **Research Focus**
 - **Remote Sensing & Data Assimilation**: Integrating satellite imagery into crop models.  
 - **Hybrid Modeling**: Combining process-based and data-driven techniques.  
 - **Greenhouse Gas Monitoring**: Using AI for emissions prediction in agriculture.  
 
 ---
 
-## 📫 **Contact**
+## **Contact**
 - **Email**: [bader.oulaid@rothamsted.ac.uk](mailto:bader.oulaid@rothamsted.ac.uk)  
 - **LinkedIn**: [linkedin.com/in/baderoulaid](https://linkedin.com/in/baderoulaid)
 
 ---
 
-## 🌍 **Languages**
+## **Languages**
 - English (Proficient)  
 - French (Fluent)  
 - Arabic (Native)  
